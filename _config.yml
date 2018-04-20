@@ -1,0 +1,8 @@
+title: Glitchtank.GitHub.io
+description: My Playground
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
