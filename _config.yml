@@ -6,3 +6,4 @@ theme: minimal-mistakes-jekyll
 
 gems:
   - jekyll-mentions
+  - jekyll-include-cache
