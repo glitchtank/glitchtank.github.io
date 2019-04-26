@@ -2,7 +2,7 @@ title: Glitchtank.com
 description: Web Strategies - Developmet, Design, Marketing, E-commerce
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-midnight
+theme: minimal-mistakes-jekyll
 
 gems:
   - jekyll-mentions
