@@ -1,4 +1,9 @@
 ---
 label: Main
 hide_body: false
-fields: []
+fields:
+- name: glitchtank
+  type: text
+  config:
+    required: false
+  label: Title
